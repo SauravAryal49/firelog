@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "707877490518",
+    "firebase_url": "https://firelog-79eb6.firebaseio.com",
+    "project_id": "firelog-79eb6",
+    "storage_bucket": "firelog-79eb6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:707877490518:android:d74a0d2bae5bed9d07d0f7",
+        "android_client_info": {
+          "package_name": "com.example.firelog"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "707877490518-kebn78l9vtk716i7iai1hqio58muqsqd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.firelog",
+            "certificate_hash": "554a84a3ec5e943131c0b51d050c0aa5a1d84a66"
+          }
+        },
+        {
+          "client_id": "707877490518-i8oh9qektuk3mb1pf60nhhlvptu1bud9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLbZN7rHxW0PAd22l5Wna1cOuxmqEzmQI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "707877490518-i8oh9qektuk3mb1pf60nhhlvptu1bud9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
